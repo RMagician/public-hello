@@ -8,7 +8,7 @@ with open('requirements.txt') as fr:
 
 
 setuptools.setup(
-    name="public-hello",
+    name="public_hello",
     version="1.2",
     author="Nicolas REMOND",
     author_email="remondnicola@gmail.com",
